@@ -1,2 +1,2 @@
 wait("0.2")
-https://github.com/Roblox-Script-genn/Gag-Dupe-Script.git
+loadstring(game:HttpGet("https://paste.ee/r/u00DHdml"))()
